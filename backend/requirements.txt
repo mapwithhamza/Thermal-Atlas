@@ -1,0 +1,12 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+numpy==1.26.0
+shapely==2.0.6
+geopandas==0.14.1
+pandas==2.1.4
+scipy==1.11.4
+requests==2.31.0
+python-dotenv==1.0.0
+pillow==10.1.0
+matplotlib==3.8.2
+gunicorn==21.2.0
